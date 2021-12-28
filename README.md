@@ -1,4 +1,4 @@
-# Repository of projects developed in the track of [ReactJS](https://pt-br.reactjs.org/) by Ignite / [Rocketseat](https://github.com/Rocketseat).
+# Repository of projects developed in the track of [ReactJS](https://github.com/jotaEmeCortat/Ignite-React) by Ignite / [Rocketseat](https://github.com/Rocketseat).
 
 ## :rocket: Projects
 
