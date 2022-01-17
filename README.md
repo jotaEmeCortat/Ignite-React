@@ -3,10 +3,8 @@
 ## :rocket: Projects
 
 ### Chapter I
-
 - [Github_Explore](https://github.com/jotaEmeCortat/github_explorer)
 ### Chapter II
-
 - [DT_Money](https://github.com/jotaEmeCortat/dt_money)
 
 &nbsp;
@@ -14,7 +12,6 @@
 ## :metal: Challenges
 
 ### Chapter I
-
 - [To_Do](https://github.com/jotaEmeCortat/to_do)
 - [Watch_Me](https://github.com/jotaEmeCortat/watch_me)
 
