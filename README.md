@@ -18,6 +18,8 @@
 - [To_Do](https://github.com/jotaEmeCortat/to_do)
 - [Watch_Me](https://github.com/jotaEmeCortat/watch_me)
 
+### Chapter II
+- [Rocket_Shoes](https://github.com/jotaEmeCortat/rocket_shoes)
 &nbsp;
 
 ## :writing_hand: Authors
