@@ -17,6 +17,7 @@
 
 ### Chapter II
 - [Rocket_Shoes](https://github.com/jotaEmeCortat/rocket_shoes)
+- [Go_Restaurant](https://github.com/jotaEmeCortat/go_restaurant)
 &nbsp;
 
 ## :writing_hand: Authors
